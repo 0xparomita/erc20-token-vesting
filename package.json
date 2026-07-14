@@ -1,0 +1,13 @@
+{
+  "name": "erc20-token-vesting",
+  "version": "1.0.0",
+  "description": "Linear token vesting and lockup engine for cryptographic project assets",
+  "main": "index.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.2"
+  }
+}
